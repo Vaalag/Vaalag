@@ -25,5 +25,5 @@
 - System Design
 
 ### 📫 How to reach me
-- Email: your-email@gmail.com
+- Email: alagvanshika@gmail.com
 - GitHub: https://github.com/Vaalag
